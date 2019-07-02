@@ -8,4 +8,4 @@ As informações contidas na interface são **estáticas** e não precisam refle
 
 ## Tela da aplicação
 
-![Facebook](assets/screen.png)
+![Facebook](https://raw.githubusercontent.com/dionlopes/bootcamp-gostack-desafio-04/master/src/assets/screen.png)
